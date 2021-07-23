@@ -7,16 +7,92 @@ in order to start Node.js is required to be installed on your device
 
 
 # example of result in console
-Ucesnici druge runde: 32 
-      C.Norrie (30)   D.Koepfer (57)   S.Wawrinka (29)   Y.Nishioka (55)   L.Sonego (26)   F.Fognini (31)   C.Garin (19)   A.Bedene (58)   L.Musetti (61)   B.Coric (33)   A.Ramos-Vinolas (43)   T.Fritz (37)   D.Goffin (20)   G.Dimitrov (21)   G.Monfils (18)   U.Humbert (28)   R.Opelka (32)   R.Nadal (3)   M.Berrettini (8)   N.Djokovic (1)   M.Raonic (22)   N.Basilashvili (42)   A.Davidovich (35)   N.Kyrgios (56)   A.Rublev (7)   F.Delbonis (46)   D.Evans (27)   F.Coria (62)   J.Sinner (23)   F.Krajinovic (34)   J.Millman (44)   R.Bautista (16)
-Ucesnici trece runde: 16 
-       D.Koepfer (57)    S.Wawrinka (29)    L.Sonego (26)    C.Garin (19)    L.Musetti (61)    A.Ramos-Vinolas (43)    G.Dimitrov (21)    G.Monfils (18)    R.Opelka (32)    N.Djokovic (1)    N.Basilashvili (42)    A.Davidovich (35)    A.Rublev (7)    F.Coria (62)    J.Sinner (23)    R.Bautista (16)
-Ucesnici cetvrt finala: 8
-                      S.Wawrinka (29)   L.Sonego (26)   A.Ramos-Vinolas (43)   G.Dimitrov (21)   R.Opelka (32)   A.Davidovich (35)   A.Rublev (7)   J.Sinner (23)
-Ucesnici polu finala: 4   L.Sonego (26)   G.Dimitrov (21)   A.Davidovich (35)   A.Rublev (7)
-Ucesnici finala   L.Sonego (26)    A.Rublev (7)
-Pobednik Internship2021 turnira je: Andrey Rublev(7)
-original requiremnts:
+Parovi prve runde su:
+Jan-Lennard Struff (DEU #48) - Alexander Zverev (DEU #5)
+Felix Auger-Aliassime (CAD #15) - Andrey Rublev (RUS #7)
+Frances Tiafoe (USA #53) - Jannik Sinner (ITA #23)
+Dusan Lajovic (SRB #45) - Lorenzo Sonego (ITA #26)
+Cameron Norrie (GBR #30) - Vasek Pospisil (CAD #60)
+Aslan Karatsev (RUS #24) - Nikoloz Basilashvili (GEO #42)
+Novak Djokovic (SRB #1) - Cristian Garin (CHL #19)
+Federico Delbonis (ARG #46) - Adrian Mannarino (FRA #41)
+Stefanos Tsitsipas (GRC #4) - Laslo Djere (SRB #52)
+Casper Ruud (NOR #14) - Jordan Thompson (AUS #63)
+Tommy Paul (USA #54) - Diego Schwartzman (ARG #13)
+Reilly Opelka (USA #32) - Federico Coria (ARG #62)
+Fabio Fognini (ITA #31) - Rafael Nadal (ESP #3)
+Dominik Koepfer (DEU #57) - Taylor Fritz (USA #37)
+Marin Cilic (CRO #36) - John Millman (AUS #44)
+Pablo Carreno Busta (ESP #11) - Daniel Evans (GBR #27)
+John Isner (USA #39) - Marton Fucsovics (HUN #38)
+Milos Raonic (CAD #22) - Gael Monfils (FRA #18)
+Albert Ramos-Vinolas (ESP #43) - Richard Gasquet (FRA #59)
+Ugo Humbert (FRA #28) - Alexander Bublik (KAZ #40)
+Roberto Bautista Agut (ESP #16) - Roger Federer (CHE #9)
+Miomir Kecmanovic (SRB #50) - Filip Krajinovic (SRB #34)
+Denis Shapovalov (CAD #10) - Karen Khachanov (RUS #25)
+Borna Coric (CRO #33) - Nick Kyrgios (AUS #56)
+Alejandro Davidovich Fokina (ESP #35) - Aljaz Bedene (SLO #58)
+Lorenzo Musetti (ITA #61) - Benoit Paire (FRA #49)
+David Goffin (BEG #20) - Hubert Hurkacz (POL #12)
+Matteo Berrettini (ITA #8) - Dominic Thiem (AUT #6)
+Lloyd Harris (ZAF #51) - Yoshihito Nishioka (JAP #55)
+Grigor Dimitrov (BUG #21) - Alex de Minaur (AUS #17)
+Pablo Andujar (ESP #65) - Sebastian Korda (USA #47)
+Daniil Medvedev (RUS #2) - Marcos Giron (USA #64)
+
+Parovi druge runde su:
+Alexander Zverev (DEU #5) - Andrey Rublev (RUS #7)
+Jannik Sinner (ITA #23) - Dusan Lajovic (SRB #45)
+Cameron Norrie (GBR #30) - Nikoloz Basilashvili (GEO #42)
+Novak Djokovic (SRB #1) - Federico Delbonis (ARG #46)
+Laslo Djere (SRB #52) - Jordan Thompson (AUS #63)
+Tommy Paul (USA #54) - Federico Coria (ARG #62)
+Fabio Fognini (ITA #31) - Dominik Koepfer (DEU #57)
+Marin Cilic (CRO #36) - Daniel Evans (GBR #27)
+Marton Fucsovics (HUN #38) - Milos Raonic (CAD #22)
+Richard Gasquet (FRA #59) - Alexander Bublik (KAZ #40)
+Roger Federer (CHE #9) - Filip Krajinovic (SRB #34)
+Denis Shapovalov (CAD #10) - Nick Kyrgios (AUS #56)
+Alejandro Davidovich Fokina (ESP #35) - Lorenzo Musetti (ITA #61)
+David Goffin (BEG #20) - Matteo Berrettini (ITA #8)
+Lloyd Harris (ZAF #51) - Grigor Dimitrov (BUG #21)
+Sebastian Korda (USA #47) - Daniil Medvedev (RUS #2)
+
+Parovi trece runde su:
+Alexander Zverev (DEU #5) - Andrey Rublev (RUS #7)
+Jannik Sinner (ITA #23) - Dusan Lajovic (SRB #45)
+Cameron Norrie (GBR #30) - Nikoloz Basilashvili (GEO #42)
+Novak Djokovic (SRB #1) - Federico Delbonis (ARG #46)
+Laslo Djere (SRB #52) - Jordan Thompson (AUS #63)
+Tommy Paul (USA #54) - Federico Coria (ARG #62)
+Fabio Fognini (ITA #31) - Dominik Koepfer (DEU #57)
+Marin Cilic (CRO #36) - Daniel Evans (GBR #27)
+Marton Fucsovics (HUN #38) - Milos Raonic (CAD #22)
+Richard Gasquet (FRA #59) - Alexander Bublik (KAZ #40)
+Roger Federer (CHE #9) - Filip Krajinovic (SRB #34)
+Denis Shapovalov (CAD #10) - Nick Kyrgios (AUS #56)
+Alejandro Davidovich Fokina (ESP #35) - Lorenzo Musetti (ITA #61)
+David Goffin (BEG #20) - Matteo Berrettini (ITA #8)
+Lloyd Harris (ZAF #51) - Grigor Dimitrov (BUG #21)
+Sebastian Korda (USA #47) - Daniil Medvedev (RUS #2)
+
+Parovi osmine finala su:
+Andrey Rublev (RUS #7) - Cameron Norrie (GBR #30)
+Jordan Thompson (AUS #63) - Marin Cilic (CRO #36)
+Milos Raonic (CAD #22) - Roger Federer (CHE #9)
+Alejandro Davidovich Fokina (ESP #35) - Daniil Medvedev (RUS #2)
+
+Parovi polovine finala su:
+Andrey Rublev (RUS #7) - Jordan Thompson (AUS #63)
+Milos Raonic (CAD #22) - Alejandro Davidovich Fokina (ESP #35)
+
+Parovi finala su:
+Andrey Rublev (RUS #7) - Milos Raonic (CAD #22)
+
+Pobednik Internship2021 turnira je: Milos Raonic (CAD, 22) !!!
+
+# original requiremnts:
 # Assignment
 
 ```
